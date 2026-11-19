@@ -11,11 +11,13 @@ Technologies Used
 - Python
 - Google Colab
 - Google Gemini API (Gemini 2.5 Flask)
+- Streamlit
 
 How to Run
 - Open the notebook in Google Colab.
 - Install the required dependencies.
 - Configured your Gemini API key.
+- Run the Streamlit application.
 - Run the notebook cells.
 - Start chatting with K-Dramabot!
 
